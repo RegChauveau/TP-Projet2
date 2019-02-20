@@ -6,3 +6,4 @@ Le but de ce TP est de :
 - savoir créer des commits;
 - utiliser les fonctions pull et push pour envoyer ou récupérer des modifications de code sur GitHub;
 
+Les premiers pas vers ma nouvelle vie pro se passent plutôt bien ! :D
